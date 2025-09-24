@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MetroTube (Auth)</string>
+    <string name="login_title">Sign in to YouTube Music</string>
+    <string name="login_description">Login to access personalized content, playlists, and recommendations</string>
+    <string name="loading">Loading...</string>
+    <string name="error_network">Network error</string>
+    <string name="error_login">Login failed</string>
+    <string name="search_hint">Search videos and music...</string>
+    <string name="home">For You</string>
+    <string name="discover">Discover</string>
+    <string name="library">Library</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="no_videos">No videos found</string>
+    <string name="refresh">Refresh</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="advanced_login">Advanced Token Login</string>
+    <string name="enter_token">Enter authentication token</string>
+    <string name="token_placeholder">Paste your authentication token here</string>
+    <string name="login_with_token">Login with Token</string>
+    <string name="back">Back</string>
+    <string name="authenticated_mode">Authenticated Mode</string>
+    <string name="public_mode_notice">Using public mode - Login for personalized content</string>
+</resources>
